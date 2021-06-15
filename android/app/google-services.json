@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "687039449488",
+    "firebase_url": "https://precious-memories-premo.firebaseio.com",
+    "project_id": "precious-memories-premo",
+    "storage_bucket": "precious-memories-premo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687039449488:android:cfcba151fd3ca2d82b4b15",
+        "android_client_info": {
+          "package_name": "com.precious.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687039449488-tubtd30c00ghs9e14pneumud9fkb9omq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.precious.memories",
+            "certificate_hash": "7138e33dfc9b0a8352268ef90ce40b3e07a371f4"
+          }
+        },
+        {
+          "client_id": "687039449488-37dii00kgm9b05nda4doc5g8k15bqrb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbL1BMsTbcph_YtSj4CwSmstR44_R7WVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687039449488-37dii00kgm9b05nda4doc5g8k15bqrb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687039449488:android:dbca37d2dbfc67f22b4b15",
+        "android_client_info": {
+          "package_name": "com.premo.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687039449488-b3b1sghp6jhd33930cqd2l01fi623srf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.premo.memories",
+            "certificate_hash": "0a8170a656c43186f14c9248e0a7084de790c061"
+          }
+        },
+        {
+          "client_id": "687039449488-37dii00kgm9b05nda4doc5g8k15bqrb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbL1BMsTbcph_YtSj4CwSmstR44_R7WVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687039449488-37dii00kgm9b05nda4doc5g8k15bqrb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
